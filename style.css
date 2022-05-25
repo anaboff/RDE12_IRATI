@@ -26,6 +26,9 @@ body{
     color: dodgerblue;
 }
 
+.footer{
+    background-color: rgb(189, 183, 107);
+}
 .div1{
     height: 300px;
     width: 1080px;
