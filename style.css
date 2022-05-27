@@ -49,3 +49,7 @@ body{
 span{
     color:blue;
 }
+
+table{
+    border: 1px solid black;
+}
