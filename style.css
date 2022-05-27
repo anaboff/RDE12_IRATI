@@ -51,5 +51,14 @@ span{
 }
 
 table{
+    width: 400px;
+}
+
+td{
     border: 1px solid black;
+    padding: 8px;
+}
+
+.td{
+    background-color: blue;
 }
