@@ -50,15 +50,3 @@ span{
     color:blue;
 }
 
-table{
-    width: 400px;
-}
-
-td{
-    border: 1px solid black;
-    padding: 8px;
-}
-
-th{
-    background-color: blue;
-}
