@@ -54,11 +54,11 @@ table{
     width: 400px;
 }
 
-th{
+td{
     border: 1px solid black;
     padding: 8px;
 }
 
-.td{
+th{
     background-color: blue;
 }
